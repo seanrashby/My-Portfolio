@@ -28,6 +28,7 @@
 #topphoto{
     width: 2000px;
     height: 250px;
+    flex: auto;
 }
 
 .imgcontainer{
@@ -76,6 +77,51 @@ color: skyblue;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     }
     
+.h2{
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+.aboutme{
+    flex-wrap: 0 0 1;
+    float: right;
+    flex: content;
+
+}
+
+  .Work1{
+    display: inline-flex;
+} 
+
+#dragonfly{
+    width: 250px;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    
+}
+
+#guitar{
+    width: 250px;
+}
+
+#river{
+    width: 250px;
+    border: 5px;
+    padding: 25px;
+    
+}
+
+#lotus{
+    width: 250px;
+    
+}
+
+#surf{
+    width: 250px;
+    
+    
+}
  
 .h3{
     display: flex;
