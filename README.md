@@ -5,4 +5,4 @@ As a new, up and coming developer, I want to create a porftolio that displays my
 ![Screenshot of Portfolio Website](assets/images/portfolio.png)  
 
 <!-- need to update deployed application link  -->
-Link [Deployed application](https://seanrashby.github.io/Horiseon-SEO/)
+Link [Deployed application](https://seanrashby.github.io/My-Portfolio/)
