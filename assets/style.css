@@ -79,6 +79,7 @@ color: skyblue;
     margin-bottom: 30px;
     padding: 40px;
     flex-direction: flex-start;
+    font-size: medium;
     
     }
    
@@ -143,12 +144,24 @@ color: skyblue;
     padding: 15px;
 }
 
-.footer{
+#contact{
     display: flex;
+    font-size: 17px;
+    height: 50px;
+    padding: 15px;
+    flex: 0 1 auto;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: space-evenly;
+
+
+
+    /* display: flex;
     flex-direction: row;
-    padding: 20px;
+    flex-wrap: wrap;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    border-radius: 20px;
-    align-items: flex-start;
-    justify-content: space-between;
+    color: lavender;
+    font-size: 30px;
+    flex: 1 0 auto;
+    background-color: skyblue;
+    padding: 15px; */
 }
